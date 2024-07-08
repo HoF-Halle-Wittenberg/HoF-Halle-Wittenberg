@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning **about the latest developments in higher education research and digitalization**.
 - 💞️ I’m looking to collaborate on **projects related to higher education governance, organization, and digitalization**.
 - 📫 How to reach me: **opendata@hof.uni-halle.de** or https://www.hof.uni-halle.de/
-- ⚡ Fun fact: **HoF is the only institute conducting research on higher education in the territory of the former GDR**[^1^][1].
+- ⚡ Fun fact: **HoF is the only institute conducting research on higher education in the territory of the former GDR**.
